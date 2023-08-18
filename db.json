@@ -61,7 +61,7 @@
         "property": "houses",
         "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem",
         "price": "$400",
-        "image": "https://www.livehome3d.com/assets/img/articles/design-house/how-to-design-a-house.jpg",
+        "image": "https://www.livehome3d.com/assets/img/articles/design-house/turn-to-a-design-agency.jpg",
         "location": "pune",
         "country": "india",
         "date": "19-05-2023"
@@ -72,7 +72,7 @@
         "property": "houses",
         "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem",
         "price": "$680",
-        "image": "https://www.livehome3d.com/assets/img/articles/design-house/how-to-design-a-house.jpg",
+        "image": "https://www.livehome3d.com/assets/img/articles/design-house/turn-to-a-design-agency.jpg",
         "location": "pune",
         "country": "india",
         "date": "19-05-2023"
@@ -83,7 +83,7 @@
         "property": "houses",
         "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem",
         "price": "$450",
-        "image": "https://www.livehome3d.com/assets/img/articles/design-house/how-to-design-a-house.jpg",
+        "image": "https://www.livehome3d.com/assets/img/articles/design-house/turn-to-a-design-agency.jpg",
         "location": "pune",
         "country": "india",
         "date": "19-05-2023"
@@ -94,7 +94,7 @@
         "property": "houses",
         "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem",
         "price": "$650",
-        "image": "https://www.livehome3d.com/assets/img/articles/design-house/how-to-design-a-house.jpg",
+        "image": "https://www.livehome3d.com/assets/img/articles/design-house/turn-to-a-design-agency.jpg",
         "location": "patna",
         "country": "india",
         "date": "19-05-2023"
@@ -131,6 +131,50 @@
         "location": "patna",
         "country": "india",
         "date": "19-05-2023"
+      },
+      {
+        "id": "13",
+        "name": "gaurav A",
+        "property": "houses",
+        "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem",
+        "price": "$550",
+        "image": "https://www.livehome3d.com/assets/img/articles/design-house/turn-to-a-design-agency.jpg",
+        "location": "patna",
+        "country": "india",
+        "date": "19-05-2023"
+      },
+      {
+        "id": "14",
+        "name": "suraj A",
+        "property": "houses",
+        "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem",
+        "price": "$400",
+        "image": "https://www.livehome3d.com/assets/img/articles/design-house/turn-to-a-design-agency.jpg",
+        "location": "patna",
+        "country": "india",
+        "date": "19-05-2023"
+      },
+      {
+        "id": "11",
+        "name": "MAHI A",
+        "property": "houses",
+        "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem",
+        "price": "$680",
+        "image": "https://www.livehome3d.com/assets/img/articles/design-house/turn-to-a-design-agency.jpg",
+        "location": "patna",
+        "country": "india",
+        "date": "19-05-2023"
+      },
+      {
+        "id": "12",
+        "name": "LALU A",
+        "property": "houses",
+        "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem",
+        "price": "$350",
+        "image": "https://www.livehome3d.com/assets/img/articles/design-house/turn-to-a-design-agency.jpg",
+        "location": "patna",
+        "country": "india",
+        "date": "18-05-2023"
       }
     ]
 }
