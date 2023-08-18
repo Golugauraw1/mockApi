@@ -1,6 +1,48 @@
 {
-    "product":{
-        "name":"gaurav",
-        "age":"20"
-    }
+    "data": [
+        {
+            "id": "1",
+            "name": "harber",
+            "property": "houses",
+            "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem",
+            "price": "$650",
+            "image": "https://www.livehome3d.com/assets/img/articles/design-house/how-to-design-a-house.jpg",
+            "location": "banglore",
+            "country": "india",
+            "date": "19-05-2023"
+        },
+        {
+            "id": "2",
+            "name": "robart",
+            "property": "houses",
+            "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem",
+            "price": "$400",
+            "image": "https://www.livehome3d.com/assets/img/articles/design-house/how-to-design-a-house.jpg",
+            "location": "banglore",
+            "country": "india",
+            "date": "19-05-2023"
+        },
+        {
+            "id": "3",
+            "name": "gargi",
+            "property": "houses",
+            "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem",
+            "price": "$680",
+            "image": "https://www.livehome3d.com/assets/img/articles/design-house/how-to-design-a-house.jpg",
+            "location": "banglore",
+            "country": "india",
+            "date": "19-05-2023"
+        },
+        {
+            "id": "4",
+            "name": "albart",
+            "property": "houses",
+            "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem",
+            "price": "$450",
+            "image": "https://www.livehome3d.com/assets/img/articles/design-house/how-to-design-a-house.jpg",
+            "location": "banglore",
+            "country": "india",
+            "date": "19-05-2023"
+        }
+    ]
 }
